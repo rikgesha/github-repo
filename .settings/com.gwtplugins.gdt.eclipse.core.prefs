@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+gwtMavenModuleName=it.bcc.sinergia.app.GWTApp
+gwtMavenModuleShortName=GWTApp
+jarsExcludedFromWebInfLib=
+lastWarOutDir=C\:/OxygenWorkspaces/OAuthorizer/GWTApp/target/GWTApp-1.0-SNAPSHOT
+warSrcDir=src/main/webapp
+warSrcDirIsOutput=false
